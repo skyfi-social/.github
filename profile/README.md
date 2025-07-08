@@ -21,4 +21,3 @@ Our goal is to attract and inspire developers to bring new ideas to the AT Proto
 - **Source**: `skyfi-social/social-app` repository
 - **URL**: [app.skyfi.social](https://app.skyfi.social)
 - **Deployment**: via Cloudflare
-## 📄 License
